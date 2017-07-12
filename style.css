@@ -1,0 +1,22 @@
+body{
+  background: url(/Users/UK/CSSI/images/skull.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+#a{
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  font-size: 50px;
+}
+#b{
+  color: white;
+  font-family: monospace;
+  font-size: 40px;
+}
+.A{
+  color: white;
+  font-family: fantasy;
+}
+.C{
+  text-align: center;
+}
